@@ -28,7 +28,6 @@ git clone https://github.com/Oraleecy/hangman.git
 ### Запустите игру
 
 ```shell
-cd src/main/hangman
 mkdir bin
 javac -d bin src/main/hangman/*.java
 java -classpath ./bin main.hangman.Main 
